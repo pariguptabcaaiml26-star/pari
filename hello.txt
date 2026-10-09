@@ -1,0 +1,11 @@
+MY FIRST GITHUB REPOSITORY 
+Hello Everyone 
+
+This is my first github repository. I am learning how to use Github and create files folders. 
+
+WHAT I AM LEARNING
+1.creating files
+2.creating folders 
+3.learning Github basics 
+4.practicing coding
+  
